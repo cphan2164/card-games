@@ -1,0 +1,52 @@
+HOW TO PLAY SCREW THE DEALER:
+The goal of Screw the Dealer is to guess one of the three dealer's cards. 
+If you guess it then you win the game, if not then the dealer wins.
+
+Aces are High.
+
+The game uses the common deck, with 52 cards and 4 suits.
+
+The first thing you do is select a card.
+To choose a card pick any of the 13 cards displayed in the middle of the 
+	application. All the cards are the suit of Spade, but the suit has
+	no relevance in this game. 
+	An example of this would be to select the 7 of Spades.
+
+The "Dealer" will then tell you if the hidden card is "Higher" or "Lower" than
+	the card you selected.
+
+You then get to make a second guess using the information the dealer has
+	given you.
+You make the second guess the same way you made the first by selecting a card.
+
+If you selected the wrong card the game will reveal the card and then tell you
+	how many numbers you were off of the dealer's card.
+
+If you selected the right card on either guess it will show up in its
+	corresponding spot. Your record will then appaer in the box.
+	
+The record displays as "Number of Wins/ Number Of Games"
+An example of this would be "2/4". This would mean I played 4 games and won 2.
+
+You have three attempts to "screw" the dealer. Each one being the same process
+	of guessing a card, then the dealer telling you if its higher or lower.
+
+Once the dealer has won or you have won, select a new card to start a new
+	round.
+
+On the bottom it will show all previous cards the dealer has had. This will
+	help you make better choices when selecting a card.
+
+Once the deck has 3 or less cards the deck will automatically shuffle and
+	the cards at the bottom will be placed back into the deck.
+
+
+
+
+
+Enjoy. Remember Aces are High.
+
+To return to Menu simply select Menu then Return to Menu.
+
+For information on the project click Help then Info.
+All programs made by Conor Phan

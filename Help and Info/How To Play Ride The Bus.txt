@@ -1,0 +1,104 @@
+HOW TO PLAY RIDE THE BUS:
+Ride the Bus uses a full deck of cards using all 4 suits, two of which
+	are red and two of which are black.
+
+Aces are High.
+
+Ride The Bus is a fun game about semi-guessing four card related questions.
+The goal of the game is to answer all 4 questions correctly.
+
+
+FIRST QUESTION:
+The first "question" is: will the next card be red or black.
+You either click the red or black card.
+Click the red card if you think the next card will be red.
+Click the black card if you think the next card will be black.
+
+The card will then be revealed to the top left card slot.
+If you picked the correct color the game will move on to the second question.
+If you picked the wrong suit, the game will say "You Lose" and the cards
+	will reset.
+
+
+
+SECOND QUESTION:
+The second "question" is: will the next card be higher or lower than the
+	first card.
+If you believe the next card will be higher than the first card then click the
+	up arrow.
+If you believe the next card will be lower than the first card then click the
+	down arrow.
+
+Remember Aces are High.
+The card will be revealed to the top right card slot.
+
+If you clicked the up arrow and the next card is higher, the game will move on
+	to the third question.
+If you clicked the down arrow and the next card is lower, the game will move on
+	to the third question.
+If you clicked the up arrow and the next card is the same value or lower, the
+	game will say "You Lose" and the cards will reset. You will go back 
+	to question 1.
+If you clicked the down arrow and the next card is the same value or higher,
+	the game will say "You Lose" and the cards will reset. You will go back
+	to question 1.
+
+
+
+THIRD QUESTION:
+The third "question" is: will the next card's value be in between or outside
+	the two current cards already revealed. 
+	An example of in between would be 5 is in between 3 and 8.
+	An example of outside would be 5 is outside of 7 and Jack.
+
+If you believe the next card's value is in between the two current card's 
+	values then select "In Between".
+If you believe the next card's value is outside the two current card's values
+	then select "Outside".
+
+The third card will be revealed in the bottom left slot.
+
+If you clicked "In Between" and the next card's value was in between the other
+	two card's values, the game will move on to question 4.
+If you clicked "Outside" and the next card's value was outside the other
+	two card's values, the game will move on to question 4.
+If you clicked "In Between" and the next card's value was outside the other
+	two card's values, the game will say "You Lose" and the cards will
+	reset. You will go back to question 1.
+If you clicked "Outside" and the next card's value was inside the other
+	two card's values, the game will say "You Lose" and the cards will
+	reset. You will go back to question 1.
+If the card's value is the same as one of the other two card's value, the
+	game will say "You Lose" and the cards will reset. You will go back
+	to question 1.
+
+
+
+FOURTH QUESTION:
+The fourth "question" is: what suit will the next card be.
+There are four suits in a deck of cards (Hearts, Diamonds, Clubs, and Spades).
+
+Select out of the four options what you believe the next suit will be
+
+The fourth card will be revealed at the bottom right slot.
+
+If the suit you selected corresponds with the suit of the fourth card,
+	you WIN THE GAME. The game will show a victory screen.
+
+If the suit you selected does not correspond with the suit of the fourth card,
+	the game will say "You Lose" and the cards will reset. You will go back
+	to question 1.
+
+The deck will automatically shuffle when there are 4 or less cards left in
+	the deck.
+
+
+
+
+
+To return to Menu simply select Menu then Return to Menu.
+
+Enjoy. Remember Aces are High.
+
+For information on the project click Help then Info.
+All programs made by Conor Phan

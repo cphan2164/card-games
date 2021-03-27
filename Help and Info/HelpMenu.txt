@@ -1,0 +1,9 @@
+The menu has three playable games.
+To play a game, click on the desired game name.
+This will be either Higher Or Lower, Screw the Dealer, or Ride the Bus.
+
+For details on how to play each game, click on the desired game then go
+to help. It will give detailed instructions on how each game runs and can
+be played. 
+
+In each game click Menu then Back to Menu to come back to the main menu. 

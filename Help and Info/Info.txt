@@ -1,0 +1,6 @@
+All applications (Menu, Ride The Bus, Screw The Dealer, and Higher Or Lower)
+were created by Conor Phan. 
+
+The GUI was manually made without the help of QTDesigner. 
+Each app is fully playable.
+All three games are based off card games that go by the same name.

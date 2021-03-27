@@ -1,0 +1,50 @@
+HOW TO PLAY HIGHER OR LOWER:
+Higher Or Lower is a game where you guess if the next card is higher or lower.
+The goal of the game is to have a long consecutive number of correct guesses.
+
+Aces are high
+
+The card to the left of the up and down arrows
+      is the card your comparing the next card to.
+
+If you think the next card will be higher, press the up button
+If you think the next card will be lower, press the down button
+
+Aces are high.
+
+After pressing a button, the card will move to the right of the 
+	up and down arrows.
+The next card will be placed to the left of the up and down arrows.
+The card to the left of the arrows will then be compared to the 
+	card on the right of the arrows.
+
+If you chose higher and the next card was higher, your score will increase
+	by 1.
+If you chose lower and the next card was lower, your score will increase by 1.
+If you chose higher and the next card was lower, your score will reset to 0.
+If you chose lower and the next card was higher, your score will reset to 0.
+If the next card is equal to the previous card your score will not change
+	and it will be counted as if nothing happened.
+
+The new card to the left of the arrows is now the card you are comparing
+      to the next card.
+
+Keep playing for as long as you want to. 
+On the deck it says how many cards are left. 
+When the deck hits 0, the deck will be shuffled, but your current 
+	score will stay.
+
+In the top right is your highscore, this shows your most consecutive
+	choices in a row for this application run.
+
+On the bottom is the previous 5 cards, which you could reference 
+	for your next pick.
+
+
+
+To return to Menu simply select Menu then Return to Menu.
+
+Enjoy. Remember Aces are High.
+
+For information on the project click Help then Info.
+All programs made by Conor Phan
